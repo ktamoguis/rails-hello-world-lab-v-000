@@ -38,3 +38,4 @@ Completed 200 OK in 317ms (Views: 305.1ms | ActiveRecord: 0.0ms)
   [1m[35m (0.1ms)[0m  rollback transaction
 =======
 >>>>>>> 737aa57355b8583c1c1aa8dfd8ba117f0536ee3d
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
